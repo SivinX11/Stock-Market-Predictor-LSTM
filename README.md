@@ -3,4 +3,5 @@ An easy to use program for predicting the Stock prices using recurrent neural ne
 </br>
 A Preview of Working of an LSTM Model:
 </br>
+</br>
 ![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
