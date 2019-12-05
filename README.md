@@ -9,8 +9,7 @@ A Preview of Working of an LSTM Model:
 </br>
 The model was mad in 9 parts:
 </br>
-</br>
-1. Importing the data
+</br>1. Importing the data
 </br>
 2. Feature scaling with Min Max Scaler
 </br>
