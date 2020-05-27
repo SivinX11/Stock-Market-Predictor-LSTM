@@ -7,7 +7,7 @@ A Preview of Working of an LSTM Model:
 ![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
 </br>
 </br>
-The model was mad in 9 parts:
+The model was made in 9 parts:
 </br>
 </br>1. Importing the data
 </br>
